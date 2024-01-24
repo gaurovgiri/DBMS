@@ -65,7 +65,7 @@ SELECT Ename FROM Employees WHERE Ename LIKE 'M%';
 SELECT Empno, Ename FROM Employees WHERE Ename LIKE '%ER';
 
 --13
-SELECT Ename FROM Employees WHERE EName LIKE 'SJ%S';
+SELECT Ename FROM Employees WHERE EName LIKE 'J%S';
 
 --14
 SELECT Ename FROM Employees WHERE EName LIKE 'S____';
